@@ -1,0 +1,40 @@
+What is the latest version of PHP?
+What is the default extension of PHP?
+PHP should start and end with?
+Is foreach support in PHP?
+In which version introduced Try/Catch Exception in PHP?
+Why we use instanceof in PHP?
+How to declare a string variable in PHP?
+Why we use strtotime()?
+How to change the root directory in PHP?
+Is PHP has multi type variable?
+PHP can support multiple inheritance?
+How to check a function already defined or not?
+What is the extension of LAMP?
+Which function is used to pick one or more random values from array?
+What all are the two types of regular expression?
+What is the purpose of preg_match()?
+Why PHP is truly cross platform?
+How to create array in PHP?
+How to rename the file directory?
+What is the best way to copy a file in php?
+Write similar syntax available like PHP.
+How to submit your data without using submit button?
+Can PHP embedded in xhtml?
+How to check a cookie?
+Write which method displays variable in url?
+Why we use $_SESSION?
+Whys we use getCode()?
+Why we use $_SERVER[‘REMOTE_ADDR’]?
+Write the error control operator in PHP.
+How can we terminate script execution in PHP?
+Which operator is used to concatenate string?
+Write the extension for include the file?
+How to create a function in PHP?
+Why we use array_count_values()?
+Why we use $_SERVER[‘PHP_SELF’]?
+Why we use $_SERVER?
+Is PHP allows you to send emails directly from script?
+What is the difference between die() and exit()?
+How to extract float values from 135.586payil?
+Is Constant can be redefined?
